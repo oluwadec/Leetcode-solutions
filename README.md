@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/oluwadec/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/oluwadec/Leetcode-solutions/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
