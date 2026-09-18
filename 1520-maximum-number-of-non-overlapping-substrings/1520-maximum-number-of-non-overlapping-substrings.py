@@ -1,42 +1,45 @@
 class Solution:
     def maxNumOfSubstrings(self, s: str) -> List[str]:
         n = len(s)
+        # Convert once to integer codes (0-25) to avoid repeated ord() calls
+        codes = [ord(c) - 97 for c in s]
+        
         first = [-1] * 26
         last = [-1] * 26
-        
-        for i, ch in enumerate(s):
-            c = ord(ch) - ord('a')
+        for i, c in enumerate(codes):
             if first[c] == -1:
                 first[c] = i
             last[c] = i
         
         intervals = []
+        append = intervals.append  # cache method lookup
         
-        for i, ch in enumerate(s):
-            c = ord(ch) - ord('a')
-            if first[c] != i:      # only expand starting from a first occurrence
+        for i, c in enumerate(codes):
+            if first[c] != i:
                 continue
             
             end = last[c]
             j = i
             valid = True
             while j <= end:
-                cj = ord(s[j]) - ord('a')
-                if first[cj] < i:   # needs an occurrence before i -> can't be valid
+                cj = codes[j]
+                fj = first[cj]
+                if fj < i:
                     valid = False
                     break
-                end = max(end, last[cj])
+                lj = last[cj]
+                if lj > end:
+                    end = lj
                 j += 1
             
             if valid:
-                intervals.append((i, end))
+                append((end, i))   # store as (end, start) so default sort works directly
         
-        # Greedy interval scheduling: sort by end, pick earliest-ending non-overlapping ones
-        intervals.sort(key=lambda p: p[1])
+        intervals.sort()  # sorts by end first (no key= overhead)
         
         result = []
         last_end = -1
-        for start, end in intervals:
+        for end, start in intervals:
             if start > last_end:
                 result.append(s[start:end + 1])
                 last_end = end
