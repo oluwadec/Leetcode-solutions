@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/oluwadec/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/oluwadec/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/oluwadec/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/oluwadec/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/oluwadec/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
