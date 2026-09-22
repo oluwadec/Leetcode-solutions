@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/oluwadec/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/oluwadec/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/oluwadec/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/oluwadec/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/oluwadec/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Trie
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/oluwadec/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/oluwadec/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/oluwadec/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/oluwadec/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/oluwadec/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
