@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/oluwadec/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/oluwadec/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/oluwadec/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/oluwadec/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/oluwadec/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/oluwadec/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/oluwadec/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/oluwadec/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/oluwadec/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/oluwadec/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/oluwadec/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/oluwadec/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
