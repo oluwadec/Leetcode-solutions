@@ -6,10 +6,8 @@ class Solution:
             for c in range(cols):
                 if grid[r][c] == 1:
                     perimeter +=4
-                    # Left neighbor
                     if r > 0 and grid[r-1][c] == 1:
                         perimeter -= 2
-                        # Top neighbor
                     if c > 0 and grid[r][c-1] == 1:
                         perimeter -= 2
         return perimeter
