@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/oluwadec/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/oluwadec/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/oluwadec/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/oluwadec/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/oluwadec/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/oluwadec/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/oluwadec/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/oluwadec/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/oluwadec/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/oluwadec/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/oluwadec/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/oluwadec/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/oluwadec/Leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/oluwadec/Leetcode-solutions/tree/master/0389-find-the-difference) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
