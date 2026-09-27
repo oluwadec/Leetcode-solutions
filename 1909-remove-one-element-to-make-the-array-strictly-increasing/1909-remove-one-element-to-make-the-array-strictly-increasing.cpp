@@ -2,7 +2,7 @@ class Solution {
 public:
     bool canBeIncreasing(vector<int>& nums) {
         bool removed = false;
-        for (int i = 1; i < nums.size(); ++i) {
+        for ( int i = 1; i < nums.size(); ++i) {
             if (nums[i - 1] >= nums[i]) {
                 if (removed) {
                     return false;
