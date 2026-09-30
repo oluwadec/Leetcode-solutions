@@ -1,32 +1,25 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
-      vector<string> words;
-      stringstream ss(s);
-      string word;
-
-      while (ss >> word) {
-        words.push_back(word);
-      }  
-      if (words.size() != pattern.size()) return false;
-
-      unordered_map<char, string> charToWord;
-      unordered_map<string, char> wordToChar;
-
-      for (int i = 0; i < (int)pattern.size(); ++i) {
-        char c = pattern[i];
-        const string& w = words[i];
-        if (charToWord.count(c)) {
-            if (charToWord[c] != w) return false;
-        } else {
-            charToWord[c] = w;
+        vector<string> words;
+        stringstream ss(s);
+        string w;
+        while (ss >> w) {
+            words.push_back(w);
         }
-        if (wordToChar.count(w)) {
-            if (wordToChar[w] != c) return false;
-        } else {
-            wordToChar[w] = c;
+        if (words.size() != pattern.size()) return false;
+        unordered_map< char, string> charToWord;
+        unordered_map<string, char> wordToChar;
+        for (int i =0; i < pattern.size(); ++i) {
+            char c = pattern[i];
+            const string& word = words[i];
+            auto it1 = charToWord.find(c);
+            if (it1 != charToWord.end() && it1->second != word) return false;
+            auto it2 = wordToChar.find(word);
+            if (it2 != wordToChar.end() && it2->second != c) return false;
+            charToWord[c] = word;
+            wordToChar[word] = c;
         }
-      }
-      return true;
+        return true;
     }
 };
