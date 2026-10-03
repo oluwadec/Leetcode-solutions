@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/oluwadec/Leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/oluwadec/Leetcode-solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1929-concatenation-of-array](https://github.com/oluwadec/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/oluwadec/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/oluwadec/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/oluwadec/Leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [1929-concatenation-of-array](https://github.com/oluwadec/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
