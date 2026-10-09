@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/oluwadec/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/oluwadec/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/oluwadec/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/oluwadec/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/oluwadec/Leetcode-solutions/tree/master/1037-valid-boomerang) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/oluwadec/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/oluwadec/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/oluwadec/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0168-excel-sheet-column-title](https://github.com/oluwadec/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/oluwadec/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/oluwadec/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/oluwadec/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
