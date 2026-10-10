@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/oluwadec/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/oluwadec/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/oluwadec/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/oluwadec/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0258-add-digits) |
