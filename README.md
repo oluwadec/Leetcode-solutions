@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/oluwadec/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/oluwadec/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/oluwadec/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/oluwadec/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/oluwadec/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/oluwadec/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/oluwadec/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/oluwadec/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/oluwadec/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oluwadec/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/oluwadec/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/oluwadec/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/oluwadec/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/oluwadec/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/oluwadec/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/oluwadec/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/oluwadec/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/oluwadec/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Quicksort
 |  |
