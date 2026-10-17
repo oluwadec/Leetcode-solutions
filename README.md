@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/oluwadec/Leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/oluwadec/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
