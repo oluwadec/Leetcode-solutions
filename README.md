@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/oluwadec/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/oluwadec/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/oluwadec/Leetcode-solutions/tree/master/0705-design-hashset) |
+| [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1037-valid-boomerang](https://github.com/oluwadec/Leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/oluwadec/Leetcode-solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/oluwadec/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/oluwadec/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/oluwadec/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/oluwadec/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/oluwadec/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/oluwadec/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/oluwadec/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Tree
 |  |
