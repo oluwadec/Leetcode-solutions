@@ -11,7 +11,6 @@
  */
 class Solution {
     int totalTilt = 0;
-
     int dfs(TreeNode* node) {
         if (!node) return 0;
         int left = dfs(node->left);
@@ -19,7 +18,6 @@ class Solution {
         totalTilt += abs(left - right);
         return node->val + left + right;
     }
-
 public:
     int findTilt(TreeNode* root) {
         totalTilt = 0; // Reset for multiple test cases
