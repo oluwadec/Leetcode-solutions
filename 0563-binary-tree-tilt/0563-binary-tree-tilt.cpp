@@ -10,20 +10,20 @@
  * };
  */
 class Solution {
+    int totalTilt = 0;
+
+    int dfs(TreeNode* node) {
+        if (!node) return 0;
+        int left = dfs(node->left);
+        int right = dfs(node->right);
+        totalTilt += abs(left - right);
+        return node->val + left + right;
+    }
+
 public:
     int findTilt(TreeNode* root) {
-       int totalTilt = 0;
-       calculateSum(root, totalTilt);
-       return totalTilt; 
-    }
-private:
-    int calculateSum(TreeNode* node, int& totalTilt) {
-        if (node == nullptr) {
-            return 0;
-        }
-        int leftSum = calculateSum(node->left, totalTilt);
-        int rightSum = calculateSum(node->right, totalTilt);
-        totalTilt += abs(leftSum - rightSum);
-        return node->val + leftSum + rightSum;
+        totalTilt = 0; // Reset for multiple test cases
+        dfs(root);
+        return totalTilt;
     }
 };
