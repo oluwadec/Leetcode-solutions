@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/oluwadec/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/oluwadec/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/oluwadec/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/oluwadec/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0705-design-hashset](https://github.com/oluwadec/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1037-valid-boomerang](https://github.com/oluwadec/Leetcode-solutions/tree/master/1037-valid-boomerang) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/oluwadec/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/oluwadec/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/oluwadec/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/oluwadec/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/oluwadec/Leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
