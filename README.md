@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/oluwadec/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/oluwadec/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/oluwadec/Leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/oluwadec/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0705-design-hashset](https://github.com/oluwadec/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1037-valid-boomerang](https://github.com/oluwadec/Leetcode-solutions/tree/master/1037-valid-boomerang) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/oluwadec/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/oluwadec/Leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/oluwadec/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0825-friends-of-appropriate-ages](https://github.com/oluwadec/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/oluwadec/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/oluwadec/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/oluwadec/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/oluwadec/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/oluwadec/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/oluwadec/Leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/oluwadec/Leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
