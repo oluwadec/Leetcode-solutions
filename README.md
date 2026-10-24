@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/oluwadec/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/oluwadec/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/oluwadec/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/oluwadec/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/oluwadec/Leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/oluwadec/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/oluwadec/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/oluwadec/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/oluwadec/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/oluwadec/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/oluwadec/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/oluwadec/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/oluwadec/Leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/oluwadec/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/oluwadec/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/oluwadec/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/oluwadec/Leetcode-solutions/tree/master/0500-keyboard-row) |
