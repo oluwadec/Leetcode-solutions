@@ -1,15 +1,13 @@
 class Solution {
 public:
     string intToRoman(int num) {
-        vector<int> vals = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
-        vector<string> syms = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
-        string roman = "";
-        for (int i = 0; i < vals.size(); ++i) {
-            while (num >= vals[i]) {
-                roman += syms[i];
-                num -= vals[i];
-            }
-        }
-        return roman;
+        string thousands[] = {"", "M", "MM", "MMM"};
+        string hundreds[]  = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
+        string tens[]      = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
+        string units[]     = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
+        return thousands[num / 1000] + 
+               hundreds[(num % 1000) / 100] + 
+               tens[(num % 100) / 10] + 
+               units[num % 10];
     }
 };
