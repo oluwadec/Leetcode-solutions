@@ -12,9 +12,9 @@
 class Solution {
     void dfs(TreeNode* root, vector<int>& res) {
         if (!root) return;
-        res.push_back(root->val);
-        dfs(root->left, res);
-        dfs(root->right, res);
+        res.push_back(root[0].val);   // Using array index notation instead of ->
+        dfs(root[0].left, res);
+        dfs(root[0].right, res);
     }
 public:
     vector<int> preorderTraversal(TreeNode* root) {
