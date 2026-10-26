@@ -11,7 +11,7 @@
  */
 class Solution {
     void dfs(TreeNode* root, vector<int>& res) {
-        if (root == NULL) return;
+        if (!root) return;
         res.push_back(root->val);
         dfs(root->left, res);
         dfs(root->right, res);
