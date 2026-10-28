@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/oluwadec/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/oluwadec/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/oluwadec/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/oluwadec/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/oluwadec/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/oluwadec/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/oluwadec/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/oluwadec/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
