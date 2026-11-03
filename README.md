@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oluwadec/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/oluwadec/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/oluwadec/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/oluwadec/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/oluwadec/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Quicksort
 |  |
